@@ -6,7 +6,7 @@ PV-13 has its own 3D-printed housing (`models/`) and its own ESP32 firmware (`co
 
 <p align="center">
   <img src="images/assembled_unit.jpg" width="45%" alt="Assembled PV-13 monocular">
-  <img src="images/helmet_mount.jpg" width="45%" alt="PV-13 mounted on a fast helmet">
+  <img src="images/helmet_mount.png" width="45%" alt="PV-13 mounted on a fast helmet">
 </p>
 
 ## Demo
